@@ -1,9 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+> 相逢莫道不相識，夏馥從來琢玉人。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+歡迎來到Lavafarmer的自留地，充滿了瑣思碎絮的孤島。
