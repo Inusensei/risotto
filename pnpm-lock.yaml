@@ -26,6 +26,9 @@ importers:
       '@fontsource-variable/jetbrains-mono':
         specifier: ^5.1.2
         version: 5.1.2
+      '@fontsource/lxgw-wenkai-tc':
+        specifier: ^5.1.1
+        version: 5.1.1
       '@fontsource/roboto':
         specifier: ^5.1.1
         version: 5.1.1
@@ -1028,6 +1031,9 @@ packages:
 
   '@fontsource-variable/jetbrains-mono@5.1.2':
     resolution: {integrity: sha512-syGEJ/N4FFisAXegxtbe1etYpo2T630dqCbYufPf7Dli/hMKSoSUIm3wK4q5RsGFRxWno1WecfnsgZA1jRK0EQ==}
+
+  '@fontsource/lxgw-wenkai-tc@5.1.1':
+    resolution: {integrity: sha512-ojF85Pp2pkg+32/eQ/W6JCdip/JmTZNchLdlzTGs3NUOMAfKBpwm6HnyBLO6n8S8V/xgk0iJepcKCYwvHtmclw==}
 
   '@fontsource/roboto@5.1.1':
     resolution: {integrity: sha512-XwVVXtERDQIM7HPUIbyDe0FP4SRovpjF7zMI8M7pbqFp3ahLJsJTd18h+E6pkar6UbV3btbwkKjYARr5M+SQow==}
@@ -6041,6 +6047,8 @@ snapshots:
     optional: true
 
   '@fontsource-variable/jetbrains-mono@5.1.2': {}
+
+  '@fontsource/lxgw-wenkai-tc@5.1.1': {}
 
   '@fontsource/roboto@5.1.1': {}
 
