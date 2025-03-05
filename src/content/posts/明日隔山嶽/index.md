@@ -3,8 +3,8 @@ title: 明日隔山嶽
 published: 2020-05-06
 description: "燕南代北，倏忽可至，世事茫茫，渺然無跡。雖有山嶽阻隔，拳拳之心不敢或忘，今暫相別，猶有聚時，惟修身敬德以俟之耳。"
 image: "./cover.jpg"
-tags: [詩詞, 隨想]
-category: "隨筆"
+tags: [詩詞, 雜感]
+category: "讀詩舊語"
 draft: false
 lang: "zh_TW"
 ---
